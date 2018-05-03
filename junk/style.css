@@ -1,7 +1,20 @@
-#rhead{
-	text-align: center;
-};
+body {
+	margin:40px auto;
+	max-width:650px;
+	font-size:18px;
+	color:#000;
+	padding:0 10px
+}
 
-#main{
-	text-align: left;
-};
+h1,h2,h3{
+	line-height:1;
+}
+
+#header {
+	text-align:center;
+}
+
+#header table{
+	margin-left:auto;
+	margin-right:auto;
+}
